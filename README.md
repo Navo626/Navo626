@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nipuni-navodya-3a6ba5213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nipuni-navodya-3a6ba5213" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nipuni-navodya-3a6ba5213/dya-3a6ba5213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nipuni-navodya-3a6ba5213/dya-3a6ba5213" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/1bbfe94ky4/?mibextid=qi2omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bbfe94ky4/?mibextid=qi2omg" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/navo_/profilecard/?igsh=cm56mhz4zm1kennu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/navo_/profilecard/?igsh=cm56mhz4zm1kennu" height="30" width="40" /></a>
 </p>
